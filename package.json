@@ -1,0 +1,13 @@
+{
+  "name": "geo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
